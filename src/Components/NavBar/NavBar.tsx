@@ -9,10 +9,10 @@ export const NavBar: React.FC = (): JSX.Element => {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link href="#features">Features</Nav.Link>
-                        <Nav.Link href="#pricing">About Us</Nav.Link>
+                        <Nav.Link href="#about">About Us</Nav.Link>
                     </Nav>
                     <Nav>
-                        <Nav.Link href="#deets">Contact</Nav.Link>
+                        <Nav.Link href="#contact">Contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

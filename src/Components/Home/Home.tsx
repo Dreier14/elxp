@@ -9,7 +9,6 @@ export const Home: React.FC = (): JSX.Element => {
     return (
         <>
             <NavBar />
-            
         </>
     );
 }

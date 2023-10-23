@@ -1,7 +1,8 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 
-import { Home } from './components/Home/Home';
+import { Home } from './Components/Home/Home';
+import { Error } from './Components/Error/Error';
 
 export default (
     <Routes>
